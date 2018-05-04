@@ -1,0 +1,4 @@
+package AlienVaultAPI
+
+
+const API_KEY = "324e82368c01483f3e9e010e3adb9ed5620a9a388f0c0656853be09546e70690"
